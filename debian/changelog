@@ -1,0 +1,5 @@
+wazo-applicationd (20.08) wazo-dev-buster; urgency=medium
+
+  * Initial package
+
+ -- Sylvain Boily <sylvain@wazo.io>  Fri, 22 May 2020 13:58:00 -0400
