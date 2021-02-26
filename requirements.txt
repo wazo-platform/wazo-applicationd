@@ -28,7 +28,7 @@ vine==1.3.0
 websockets==8.1
 yarl==1.4.2
 zipp==0.6.0
-aiohttp==3.6.2
+aiohttp==3.7.4
 gila==0.4.0
 marshmallow==3.5.0
 https://github.com/wazo-platform/wazo-asyncio-ari-client/archive/main.zip
