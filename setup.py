@@ -31,7 +31,7 @@ setup(
         "six==1.13.0",
         "soupsieve==1.9.5",
         "starlette==0.12.9",
-        "urllib3==1.25.7",
+        "urllib3==1.26.5",
         "uvicorn==0.11.1",
         "uvloop==0.14.0",
         "vine==1.3.0",
