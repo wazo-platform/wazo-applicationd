@@ -30,5 +30,5 @@ yarl==1.4.2
 zipp==0.6.0
 aiohttp==3.6.2
 gila==0.4.0
-marshmallow==3.5.0
+marshmallow==3.10.0
 https://github.com/wazo-platform/wazo-asyncio-ari-client/archive/main.zip
