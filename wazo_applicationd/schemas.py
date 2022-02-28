@@ -6,9 +6,7 @@ from marshmallow import (
     EXCLUDE,
     Schema,
     fields,
-    pre_dump,
     pre_load,
-    post_load,
 )
 
 from typing import Any
@@ -48,7 +46,7 @@ class BaseSchema(Schema):
         unknown = EXCLUDE
 
     @pre_load
-    def ensure_dict(self, data):
+    def ensure_dict(self, data, **kwargs):
         return data or {}
 
 
